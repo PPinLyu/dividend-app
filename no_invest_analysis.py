@@ -301,7 +301,7 @@ def main():
 
     page = st.sidebar.radio(
         "Navigation", 
-        ["Dividend Dashboard", "Altman Z-Score", "Investing Analysis", "Sector Competitor Explorer", "Hidden Competitor Neural Map", "Explain Backend"]
+        ["Dividend Dashboard", "Altman Z-Score", "Sector Competitor Explorer", "Hidden Competitor Neural Map", "Explain Backend"]
     )
 
     if page == "Dividend Dashboard":
