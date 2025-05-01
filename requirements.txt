@@ -16,4 +16,3 @@ plotly
 umap-learn
 plotly 
 alpha_vantage
-!pip install yfinance --upgrade --no-cache-dir
