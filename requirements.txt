@@ -1,0 +1,17 @@
+streamlit
+yfinance
+pandas
+matplotlib
+scikit-learn
+lxml
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+beautifulsoup4
+plotly
+umap-learn
+plotly 
